@@ -9,3 +9,6 @@ yarn link --global
 
 
 ## Install `@types/node` to access the node api's , otherwise typescript will through errors..
+
+
+## Install `Commander` to write the cli
